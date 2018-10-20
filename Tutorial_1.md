@@ -1,8 +1,10 @@
 # Tutorial 1
 ## Code
+```
 LINK 800
 GRAB 200
 LINK 800
+```
 
 ## Performance
 | Cycles | Size | Activity |
